@@ -1,0 +1,16 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/conc","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/concurrently","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/ejs","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/jake","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/json5","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/loose-envify","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/mime","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/nanoid","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/next","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/prebuild-install","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/rc","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/semver","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/tree-kill","time":"2022-12-11T00:19:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/wait-on","time":"2022-12-11T00:19:11Z"}
+{"error":"lstat /home/runner/UWUGEN/notindex.js: no such file or directory","level":"error","msg":"unable to stat notindex.js","time":"2022-12-11T00:20:02Z"}
+{"error":"lstat /home/runner/UWUGEN/uwu.bash: no such file or directory","level":"error","msg":"unable to stat uwu.bash","time":"2022-12-11T00:20:02Z"}

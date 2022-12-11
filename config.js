@@ -1,0 +1,15 @@
+module.exports = {
+  Prefix: "-",
+  Owners: ["1042583676535443456","937043998554607717"], 
+  Token: process.env.token,
+  mongoPass: process.env.mongoPass,
+  Error_log_channel: "1048692602616168558",
+  Auth_log_channel: "1048692602616168558",
+  oauth_link: "https://discord.com/api/oauth2/authorize?client_id=1036012434189721630&redirect_uri=http%3A%2F%2Fthecashstore.tk%2Fsystem&response_type=code&scope=identify%20guilds.join",
+  client_id: "1036012434189721630",
+  logchannel: "1048692602616168558",
+  autoroleserver: "972628522961076254",
+  autoroleid: "1048693239370227832",
+  client_secret: process.env.client,
+  redirect_uri: "http://thecashstore.tk/system",
+}
