@@ -3,7 +3,7 @@ const express = require("express");
 
 
 const { InteractionType, ApplicationCommandType, ApplicationCommandOptionType, ActionRowBuilder, ButtonBuilder, ButtonStyle, } = require('discord.js');
-const { Prefix, Owners, client_id, redirect_uri, Token, oauth_link, Auth_log_channel, Error_log_channel, client_secret, autoroleid, autoroleserver, logchannel } = require("./config.js");
+
 
 const fs = require("fs");
 const ascii = require("ascii-table");
